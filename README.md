@@ -41,6 +41,13 @@ A dynamic 2D fighting game where players battle against Goku Black with immersiv
 2. Press **S** to perform a kick.
 3. Press **Space** to shoot a Kamehameha.
 4. Change the background using the **X** key.
+5. Defeat Goku Black before you die!
+
+## Game Mechanics:
+**Player Controls**: Move left, right, punch, kick, and execute special moves using keyboard inputs.
+**Health System**: Both the player and Goku Black have health bars that decrease as they take damage.
+**Animation Frames**: Experience fluid animations for both standing and attacking sequences.
+**Collision Detection**: Accurate collision detection ensures fair and challenging gameplay.
 
 ## Installation
 
